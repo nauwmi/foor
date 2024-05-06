@@ -117,7 +117,7 @@ nav img {
     height: auto;
     flex: 0 0 570px;
     background-size: cover;
-    background-image: url(Media/personal-chef.png);
+    background-image: url(personal-chef.png);
 }
 
 .mission-content h1 {
